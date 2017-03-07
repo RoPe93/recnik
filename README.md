@@ -1,4 +1,4 @@
-# recnik
+# Rečnik
 Rečnik sadrži 65536 reči srpskog jezika za kreiranje lako pamtljivih fraza umesto šifara.
 
 Rečnik koristi niz/heš_tabelu velicine 30 karaktera (za svako slovo azbuke po jedno).
